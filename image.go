@@ -1,4 +1,4 @@
-package image-tool
+package imageTool
 
 import (
 	"github.com/nfnt/resize"
